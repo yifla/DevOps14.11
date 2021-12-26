@@ -1,3 +1,4 @@
+
 import requests
 
 try:
@@ -59,3 +60,4 @@ f.close()
 import PIL.Image
 image = PIL.Image.open(r'/home/yif/Downloads/cropped-logo2-2.png')
 image.show()
+
