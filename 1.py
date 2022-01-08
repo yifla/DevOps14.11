@@ -27,4 +27,3 @@ print ("hello" +" " + fname + " " + lname)
 print(f"hello {fname} {lname}")
 print("hello %s %s " % (lname, fname))
 
-fdskelkjwekeked
